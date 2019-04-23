@@ -1,2 +1,2 @@
-# Donar-s-Choose-
+# Donars-Choose
 To predict weather a given project will be approved or not using various Machine Learning Algorithms
